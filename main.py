@@ -8,3 +8,4 @@ if age >=16:
 elif age <16:
   print("you are not eligible for drivers licence.")
   print("dont worry, try next year.")
+  print("next lets try your eligibility for credit card.")
